@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="3">
   <diagram name="스케쥴링" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2381" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2192" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,19 +439,19 @@
           <mxGeometry x="-320" y="1263" width="89" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Lx4imsUk2JHRe6yTygNz-9" value="Customer" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#333333;align=center;spacingLeft=8.4;spacingRight=8.4;spacingTop=2.4;spacing=3.6;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#cfe4ff;strokeWidth=1.5;lucidId=QEb_.zxC__Ga;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-870" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lx4imsUk2JHRe6yTygNz-10" value="Decision" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=12;fontColor=#333333;align=center;spacingLeft=8.4;spacingRight=8.4;spacingTop=2.4;spacing=3.6;strokeColor=#fcce14;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#fcfcca;strokeWidth=1.5;lucidId=REb_99ZYc0bC;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="-200" width="120" height="90" as="geometry" />
+          <mxGeometry x="-730" y="10" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Lx4imsUk2JHRe6yTygNz-11" value="System" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#282c33;align=center;spacingLeft=8.4;spacingRight=8.4;spacingTop=2.4;spacing=3.6;strokeColor=#9391ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#dedeff;strokeWidth=1.5;lucidId=UEb_Uj5wWWNo;" parent="1" vertex="1">
-          <mxGeometry x="-599" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-589" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lx4imsUk2JHRe6yTygNz-12" value="Technician" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#333333;align=center;spacingLeft=8.4;spacingRight=8.4;spacingTop=2.4;spacing=3.6;strokeColor=#ff80df;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffd6f5;strokeWidth=1.5;lucidId=WEb_~m_cG89U;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lx4imsUk2JHRe6yTygNz-13" value="Support team" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#333333;align=center;spacingLeft=8.4;spacingRight=8.4;spacingTop=2.4;spacing=3.6;strokeColor=#00c2a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#b8f5ed;strokeWidth=1.5;lucidId=ZEb_KaOEvbZO;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
